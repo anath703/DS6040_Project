@@ -3,6 +3,7 @@ column info
 Player: Player Name
 **Pos: Position
 Age: Age
+
 Tm: Team, if player played in multiple teams in the same season, this will say TOT
 G: Games Played 
 MP: Minutes playedd
